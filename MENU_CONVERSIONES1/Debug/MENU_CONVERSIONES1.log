@@ -1,0 +1,8 @@
+﻿  MENU_CONVERSIONES1.cpp
+C:\Users\valen\source\repos\MENU_CONVERSIONES1\MENU_CONVERSIONES1\MENU_CONVERSIONES1.cpp(50,44): warning C4244:  '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\valen\source\repos\MENU_CONVERSIONES1\MENU_CONVERSIONES1\MENU_CONVERSIONES1.cpp(256,9): warning C4101:  'hexstr': variable local sin referencia
+C:\Users\valen\source\repos\MENU_CONVERSIONES1\MENU_CONVERSIONES1\MENU_CONVERSIONES1.cpp(259,7): warning C4101:  'i': variable local sin referencia
+C:\Users\valen\source\repos\MENU_CONVERSIONES1\MENU_CONVERSIONES1\MENU_CONVERSIONES1.cpp(255,8): warning C4101:  'hex': variable local sin referencia
+C:\Users\valen\source\repos\MENU_CONVERSIONES1\MENU_CONVERSIONES1\MENU_CONVERSIONES1.cpp(348,50): warning C4244:  '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\valen\source\repos\MENU_CONVERSIONES1\MENU_CONVERSIONES1\MENU_CONVERSIONES1.cpp(448,20): warning C4018:  '<': no coinciden signed/unsigned
+  MENU_CONVERSIONES1.vcxproj -> C:\Users\valen\source\repos\MENU_CONVERSIONES1\Debug\MENU_CONVERSIONES1.exe
